@@ -57,6 +57,6 @@ if __name__ == "__main__":
     if len(sys.argv) > 1:
         config_file = sys.argv[1]
     else:
-        config_file = r"C:\Users\pdcur\Desktop\Outlook Auto Email script\config_file.email-config"
+        config_file = r"C:\Users\User\Desktop\Outlook Auto Email script\config_file.email-config"
 
     prepare_email(config_file)
